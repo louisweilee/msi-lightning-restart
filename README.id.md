@@ -1,4 +1,4 @@
-\# Alat Restart MSI Lightning Service
+﻿\# Alat Restart MSI Lightning Service
 
 
 
@@ -64,7 +64,6 @@ Skrip ini melakukan tindakan berikut:
 
 \- Menjalankan ulang `MSI Lightning Service.exe`
 
-\- Menulis log eksekusi ke `restart\_msi\_lightning.log`
 
 
 
@@ -109,4 +108,5 @@ Skrip saat ini mengasumsikan jalur executable berikut:
 \- Validasi hanya dilakukan pada sistem yang menggunakan jalur layanan seperti di atas.
 
 \- Pengguna bertanggung jawab menilai kesesuaian dan menanggung risiko penggunaan.
+
 

@@ -31,7 +31,6 @@
 
 - 結束 `MSI Lightning Service`
 - 重新啟動 `MSI Lightning Service.exe`
-- 將執行結果寫入 `restart_msi_lightning.log`
 
 ## 內含檔案
 

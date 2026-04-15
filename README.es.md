@@ -31,7 +31,6 @@ El script realiza las siguientes acciones:
 
 - Finaliza `MSI Lightning Service`
 - Vuelve a iniciar `MSI Lightning Service.exe`
-- Guarda un registro de ejecución en `restart_msi_lightning.log`
 
 ## Archivos incluidos
 

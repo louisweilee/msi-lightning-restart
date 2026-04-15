@@ -31,7 +31,6 @@ MSI GeForce RTX 5090 LIGHTNING Z용 경량 복구 도구입니다.
 
 - `MSI Lightning Service` 종료
 - `MSI Lightning Service.exe` 재시작
-- 실행 로그를 `restart_msi_lightning.log`에 기록
 
 ## 포함 파일
 

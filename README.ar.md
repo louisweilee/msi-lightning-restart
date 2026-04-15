@@ -31,7 +31,6 @@
 
 - إيقاف `MSI Lightning Service`
 - تشغيل `MSI Lightning Service.exe` من جديد
-- كتابة سجل التنفيذ إلى `restart_msi_lightning.log`
 
 ## الملفات المضمنة
 

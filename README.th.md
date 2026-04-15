@@ -31,7 +31,6 @@
 
 - ปิด `MSI Lightning Service`
 - เปิด `MSI Lightning Service.exe` ใหม่
-- บันทึกผลการทำงานลงไฟล์ `restart_msi_lightning.log`
 
 ## ไฟล์ที่มีให้
 

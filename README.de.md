@@ -31,7 +31,6 @@ Das Skript führt folgende Schritte aus:
 
 - Beendet `MSI Lightning Service`
 - Startet `MSI Lightning Service.exe` erneut
-- Schreibt ein Ausführungsprotokoll in `restart_msi_lightning.log`
 
 ## Enthaltene Dateien
 

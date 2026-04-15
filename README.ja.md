@@ -31,7 +31,6 @@ MSI GeForce RTX 5090 LIGHTNING Z 向けの軽量な復旧ツールです。
 
 - `MSI Lightning Service` を終了する
 - `MSI Lightning Service.exe` を再起動する
-- 実行ログを `restart_msi_lightning.log` に書き出す
 
 ## 同梱ファイル
 

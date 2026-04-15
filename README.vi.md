@@ -31,7 +31,6 @@ Tập lệnh sẽ thực hiện các thao tác sau:
 
 - Dừng `MSI Lightning Service`
 - Khởi động lại `MSI Lightning Service.exe`
-- Ghi nhật ký thực thi vào `restart_msi_lightning.log`
 
 ## Tệp đi kèm
 
